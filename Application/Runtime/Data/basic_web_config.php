@@ -1,0 +1,1 @@
+a:5:{s:5:"title";s:22:"YnuSoftCms新闻小站";s:8:"keywords";s:39:"YnuSoftCms  资讯 体育 新闻 科技";s:11:"description";s:67:"YnuSoftCms资讯网是提供最新的体育等栏目的新闻网站";s:9:"dumpmysql";s:1:"1";s:10:"cacheindex";s:1:"1";}
